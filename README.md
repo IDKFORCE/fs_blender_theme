@@ -3,7 +3,7 @@
 # fs_blender_theme made by ⸸♱♥IDK_FORCE♥♱⸸#7611
 
 ```My Discord```
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 ## Installation
 Just Go To ```Edit/Preferences/Themes``` And Hit Install Find The xml And Your Done
